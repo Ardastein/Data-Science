@@ -2,7 +2,7 @@
 
 This project analyzes the COVID-19 data to visualize the trend of confirmed cases, deaths, and recoveries over time globally.
 
-![COVID-19 Data Analysis](path/to/your/image.png)
+![COVID-19 Data Analysis](https://github.com/Fuatorium/Huawei/blob/main/cov.png)
 
 ## Project Structure
 
